@@ -1,0 +1,11 @@
+﻿  HuffmanProject_71891.cpp
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\encoding.h(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\encoding.h(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\encoding.h(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\encoding.h(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\encoding.h(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\encoding.h(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\encoding.h(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\decoding.h(38): warning C4018: '>': signed/unsigned mismatch
+c:\users\yokot\source\repos\huffmanproject_71891\huffmanproject_71891\decoding.h(48): warning C4018: '<': signed/unsigned mismatch
+  HuffmanProject_71891.vcxproj -> C:\Users\yokot\source\repos\HuffmanProject_71891\Debug\HuffmanProject_71891.exe
